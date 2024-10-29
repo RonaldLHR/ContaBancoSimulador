@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aea797ea-d4a5-4b53-b0ca-d08f20c4059a" name="Changes" comment="Conta Bancaria em Java para teste de atividade Na DIO01">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aea797ea-d4a5-4b53-b0ca-d08f20c4059a" name="Changes" comment="Conta Bancaria em Java para teste de atividade Na DIO01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +59,7 @@
       <updated>1730125773293</updated>
       <workItem from="1730125774380" duration="350000" />
       <workItem from="1730126138875" duration="15000" />
+      <workItem from="1730206079502" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="Conta Bancaria em Java para teste de atividade Na DIO">
       <option name="closed" value="true" />
